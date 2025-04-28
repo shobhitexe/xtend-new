@@ -1,10 +1,10 @@
 export const siteConfig = {
   name: "Xtend",
   url: "https://agent-magicui.vercel.app",
-  description: "Your template for building AI-powered agents with Magic UI.",
+  description: "",
   links: {
-    twitter: "https://x.com/dillionverma",
-    github: "https://github.com/dillionverma",
+    twitter: "",
+    github: "",
   },
 };
 
