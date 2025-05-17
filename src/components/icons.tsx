@@ -1899,7 +1899,7 @@ export const Icons = {
           gradientTransform="matrix(545.6736 0 0 528.3113 100439.305 -173525.125)"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0" stopColor="#442f55" stop-opacity=".98"></stop>
+          <stop offset="0" stopColor="#442f55" stopOpacity=".98"></stop>
           <stop offset="1" stopColor="#12002c"></stop>
         </radialGradient>
         <path

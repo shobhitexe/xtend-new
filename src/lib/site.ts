@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Xtend",
-  url: "https://agent-magicui.vercel.app",
+  url: "https://www.xtendagency.com",
   description: "",
   links: {
     twitter: "",

@@ -76,7 +76,7 @@ export const siteConfig = {
     cta: {
       primary: {
         text: "Book a call",
-        href: "#",
+        href: "http://wa.me/16827104736",
       },
       secondary: {
         text: "Portfolio",
@@ -781,7 +781,7 @@ export const siteConfig = {
       },
       {
         id: 7,
-        question: "7. How much do Xtend Co.'s services cost?",
+        question: "How much do Xtend Co.'s services cost?",
         answer: `Our pricing is flexible based on the scope and complexity of your project. Here's a starting point for our core services:  
 - Social Media Graphics: Starts at $300
 - UI/UX Design: Starts at $700  
